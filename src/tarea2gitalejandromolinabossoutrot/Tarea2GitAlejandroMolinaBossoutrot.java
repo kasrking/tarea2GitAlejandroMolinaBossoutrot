@@ -16,6 +16,8 @@ public class Tarea2GitAlejandroMolinaBossoutrot {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Jugador Sidan = new Jugador("Zinedin Sizú",20,4);
+
     }
     
 }
