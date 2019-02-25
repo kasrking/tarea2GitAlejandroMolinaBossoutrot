@@ -10,5 +10,7 @@ package tarea2gitalejandromolinabossoutrot;
  * @author kasrking
  */
 public class Jugador {
-    
+    private String nombre;
+    private int votos;
+    private int id; 
 }
